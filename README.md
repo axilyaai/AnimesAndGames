@@ -19,6 +19,8 @@ A Kotlin-based application that helps users gain discipline through daily viewin
 4. Thats it!
 
 ##Screenshots
+
+
 ![Uncompleted_Start_Mission](https://github.com/user-attachments/assets/0c0aa34f-d7e8-48b0-9789-d32812a53519)
 ![Completed_Start_Mission](https://github.com/user-attachments/assets/7be9000d-a7f7-4aef-a3fc-06bfff654b16)
 ![Uncompleted_Real_Mission](https://github.com/user-attachments/assets/6d6654af-5d30-4b9b-8305-40f7a0804adf)
